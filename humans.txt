@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bert Potty jason@twitter.file
 
 # THANKS
 
