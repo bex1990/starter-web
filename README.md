@@ -1,7 +1,7 @@
 # Starter Web Project
 This is a starter Web Project muhaha
 This repository is for showing how Git and GitHub work
-
+Adding some text!
 ## Introduction
 
 Sample website with plenty of files for demos
@@ -18,3 +18,4 @@ Un altra riga ancora
 
 ##Cambiamento stupido
 Please fork fork!!
+Others fork fork fork!
