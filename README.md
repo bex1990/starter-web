@@ -20,3 +20,5 @@ Un altra riga ancora
 Please fork fork!!
 Others fork fork fork!
 more changes from myfeater branch!
+
+All rights reserved. 
